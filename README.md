@@ -20,7 +20,8 @@ git clone https://github.com/mkhan5/load-dist.git
 Installation
 ------------
 
-Installation
+Needs Intel MKL and Nvidia CUBLAS Libraries. 
+ 
 
 Development
 -----------
